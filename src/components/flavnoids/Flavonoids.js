@@ -2780,7 +2780,7 @@ const Flavonoids = () => {
              <td>{modes[2].ModeFlavanoids}</td>
           </tr>
           <tr>
-             <td>Flavanoids Mode</td>
+             <td>Flavanoids Median</td>
              <td>{medians[0].MedianFlavanoids}</td>
              <td>{medians[1].MedianFlavanoids}</td>
              <td>{medians[2].MedianFlavanoids}</td>
