@@ -2768,19 +2768,19 @@ const Flavonoids = () => {
 
       <tbody>
           <tr>
-             <td>Flavanoids Mean</td>
+             <td>Flavonoids Mean</td>
              <td>{map[1]}</td>
              <td>{map[2]}</td>
              <td>{map[3]}</td>
           </tr>
           <tr>
-             <td>Flavanoids Mode</td>
+             <td>Flavonoids Mode</td>
              <td>{modes[0].ModeFlavanoids}</td>
              <td>{modes[1].ModeFlavanoids}</td>
              <td>{modes[2].ModeFlavanoids}</td>
           </tr>
           <tr>
-             <td>Flavanoids Median</td>
+             <td>Flavonoids Median</td>
              <td>{medians[0].MedianFlavanoids}</td>
              <td>{medians[1].MedianFlavanoids}</td>
              <td>{medians[2].MedianFlavanoids}</td>
